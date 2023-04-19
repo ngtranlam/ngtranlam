@@ -32,4 +32,7 @@
   <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" alt="numpy" width="48" height="48"/>
   <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001_2_0x.png" alt="matplotlib" width="48" height="48"/>
   <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="seaborn" width="48" height="48"/>
+  <img src="https://quintagroup.com/cms/python/images/opencv-logo.png" alt="Open_CV" width="48" height="48"/>
+  <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png" alt="Power BI" width="48" height="48"/>
+  <img src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" alt="SQL" width="48" height="48"/>
 </p>

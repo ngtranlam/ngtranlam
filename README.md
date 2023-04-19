@@ -28,13 +28,8 @@
 ## Skills:
 <p align="center">
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="opencv" width="48" height="48"/> 
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="48" height="48"//>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png" alt="numpy" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="48" height="48"/>
+  <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" alt="numpy" width="48" height="48"/>
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001_2_0x.png" alt="matplotlib" width="48" height="48"/>
+  <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="seaborn" width="48" height="48"/>
 </p>

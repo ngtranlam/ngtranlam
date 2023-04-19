@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="opencv" width="48" height="48"/> 
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="48" height="48"//>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/matlab.png" alt="numpy" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>

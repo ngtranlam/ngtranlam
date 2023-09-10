@@ -14,7 +14,7 @@
   <a href="https://www.facebook.com/nguyentranlamofficial" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/LamNguyends" alt="Github">
+  <a href="https://github.com/ngtranlam" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="https://www.kaggle.com/lmnguyntrn" alt="Kaggle" target="_blank" >

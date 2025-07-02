@@ -1,7 +1,7 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Lam Nguyen</h1>
 <p align="center">
-  <h3 align="center">I'm a student of data science</h3>
+  <h3 align="center">I'm a AI Engineer</h3>
 </p>
 <br />
 
